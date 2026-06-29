@@ -5,7 +5,7 @@
   "main": "dist/install-button.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/esphome/esp-web-tools"
+    "url": "https://github.com/lmasiero/esp-web-tools"
   },
   "author": "ESPHome maintainers",
   "license": "Apache-2.0",
